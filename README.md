@@ -39,14 +39,11 @@ This dashboard is built to help sales teams and business managers understand:
 ---
 
 ## 📂 Files Included
-- `mobile sales.pbix` – Power BI project file
-- *(Optional: Add screenshots of dashboard here if needed)*
-
+-  – Power BI project file
 ---
+![Screenshot (790)](https://github.com/user-attachments/assets/9389f1fd-84f9-41a7-9464-0362830d3e78)
+![Screenshot (788)](https://github.com/user-attachments/assets/c2fad77f-f133-4f7a-8d87-a8adcfc1820a)
 
-## 📸 Dashboard Preview
-
-*You can upload 1–2 screenshots here for better visual appeal*
 
 ---
 
